@@ -137,7 +137,5 @@ Multiple prediction methods analyze your current loss streak:
 
 This system provides **statistical evidence** that Dota 2's matchmaking creates systematic performance windows rather than truly random outcomes. The **2.4:1 ratio** of loss periods to win periods, combined with **0% direct transitions**, suggests algorithmic manipulation designed to maintain player engagement through controlled frustration and reward cycles.
 
-**Current Status**: You're at the optimal time to play - the system predicts you're about to transition from your current loss streak into a win streak period! 🚀
-
 ---
 *Analysis System v2.0 - Performance Window Based*
